@@ -1,0 +1,25 @@
+{
+  "name": "csv-to-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranisad/csv-to-json.git"
+  },
+  "author": "Sadhana Upadhyay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranisad/csv-to-json/issues"
+  },
+  "homepage": "https://github.com/ranisad/csv-to-json#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
